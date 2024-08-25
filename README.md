@@ -10,3 +10,9 @@ Clone the repo
 
 https://github.com/EAllaucaD/microservice-client.git
 
+### Usage
+Have docker installed.
+
+Download the app
+
+To run the application docker run : docker-compose up --build
