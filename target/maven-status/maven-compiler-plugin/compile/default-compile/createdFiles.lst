@@ -1,0 +1,7 @@
+com\micro\client\entities\Client$ClientBuilder.class
+com\micro\client\entities\Client.class
+com\micro\client\service\IClientService.class
+com\micro\client\service\ClientServiceImpl.class
+com\micro\client\controller\ClientController.class
+com\micro\client\repository\ClientRepository.class
+com\micro\client\MicroserviceClientApplication.class
